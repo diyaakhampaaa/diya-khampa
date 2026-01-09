@@ -1,13 +1,38 @@
-# diya-khampa
-INTRODUCTION
+# diya-khampa 👩‍💻
 
-# Hi there 👋
+## 👋 Hi there!
 
-I'm Diya khampa – a BTech Mechanical & Automation student at IGDTUW.
-🧠 First-year student passionate about building real-world projects and contributing to open source. 
-- 🔭 Currently learning Web Development & Python
-- 🌱 Exploring Open Source and preparing OPEN SOURCE.
-- 🎯 Goal: Become a full-stack developer & build cool projects
+I'm **Diya Khampa**, an **IT undergraduate student** with a strong interest in **software development, data, and AI/ML**.  
+I enjoy learning new technologies, building projects, and exploring open-source.
 
-📫 Reach me at: khampadiya8@example.com
-💼 LinkedIn: https://www.linkedin.com/in/diya-khampa-4b9851302/ 
+---
+
+## Skills & Interests
+
+- 🐍 **Python**
+- 📊 **R (Data Analysis & Statistics)**
+- ☕ **Java**
+- 🌐 **JavaScript**
+- 🤖 Exploring **AI & Machine Learning**
+- 💻 Web Development (in progress)
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- Machine Learning fundamentals
+- Real-world project development
+
+---
+
+## 🎯 Goals
+- Become a strong software engineer
+- Build impactful projects
+- Contribute to open source
+- Explore AI/ML applications
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: khampadiya8@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/diya-khampa-4b9851302/
